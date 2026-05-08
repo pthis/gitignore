@@ -5,11 +5,14 @@
 # shared with a team, so only uncomment them if they are local-only in your
 # project.
 
-# AGENTS.md
 # GEMINI.md
 # WARP.md
 # CRUSH.md
 # QWEN.md
+
+# OpenAI Codex
+# AGENTS.md
+# .codex/
 
 # Aider
 .aider.input.history
